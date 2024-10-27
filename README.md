@@ -36,15 +36,17 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🗣️ Languages 🗣️</h2>
 <br/>
 <div align="center">
     <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,java" />
-
+<h2 align="center">⚛️ Frameworks ⚛️</h2>
+<br/>
 <!-- Frameworks -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,express,firebase,mongodb,flask" />
-
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql,nodejs" />
 <br>
