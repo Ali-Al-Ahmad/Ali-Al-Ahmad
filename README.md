@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c#,java" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,csharp,java" />
 <h2 align="center">⚛️ Frameworks ⚛️</h2>
 <br/>
 <!-- Frameworks -->
