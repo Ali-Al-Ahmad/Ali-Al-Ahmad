@@ -44,7 +44,7 @@
 <h2 align="center">⚛️ Frameworks ⚛️</h2>
 <br/>
 <!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,express,firebase,mongodb,flask" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,express,firebase,mongodb" />
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <!-- Tools -->
