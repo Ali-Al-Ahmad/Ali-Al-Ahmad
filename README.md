@@ -13,8 +13,6 @@
 
  💬 Ask me about **React, Nodejs, Sequelize, Mongoose**
  
- 👨‍💻 All of my projects are available at **[github/Ali-Al-Ahmad](https://github.com/Ali-Al-Ahmad)**
- 
  📫 How to reach me: email me at **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
  
  </div>
