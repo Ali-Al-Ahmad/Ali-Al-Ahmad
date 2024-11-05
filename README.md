@@ -13,7 +13,7 @@
 
  💬 Ask me about **React, Nodejs, Sequelize, Mongoose**
  
- 📫 How to reach me: email me at **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
+ 📫 How to reach me **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
  
  </div>
  
