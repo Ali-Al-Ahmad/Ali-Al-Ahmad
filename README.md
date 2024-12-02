@@ -7,7 +7,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **MERN projects**
+  🔭 I’m currently working on **MERN projects**
  
  🌱 I’m currently learning **Angular, Laravel, Python**
 
