@@ -11,9 +11,9 @@
  
  🌱 I’m currently learning **Angular, Laravel, Python**
 
- 💬 Ask me about **React, Nodejs, Sequelize, Mongoose**
+ 💬 Ask me about **React.js, Node.js, Sequelize, Mongoose**
  
- 📫 reach me at **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
+ 📫 Reach me at **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
  
  </div>
  
@@ -25,10 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Ali-Al-Ahmad" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
     <a href="https://wa.me/96171505894" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -39,14 +39,20 @@
 <div align="center">
     <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,java" />
-<h2 align="center">⚛️ Frameworks ⚛️</h2>
+</div>
+
+<h2 align="center">⚛️ Frameworks & Libraries ⚛️</h2>
 <br/>
-<!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,express,firebase,mongodb" />
+<div align="center">
+    <!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,express,angular,laravel" />
+</div>
+
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql,nodejs" />
+<div align="center">
+    <!-- Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,tailwind,git,mysql,nodejs,firebase,mongodb" />
 <br>
 </div>
 
@@ -71,15 +77,3 @@
   <br/>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Al-Ahmad&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
