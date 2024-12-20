@@ -7,13 +7,11 @@
 
 <div align="center">
 
-  🔭 I’m currently working on **MERN projects**
+  🔭 I’m currently working on **WEB projects**
  
  🌱 I’m currently learning **Angular, Laravel, Python**
 
  💬 Ask me about **React.js, Node.js, Sequelize, Mongoose**
- 
- 📫 Reach me at **[ali.alahmad.cs@gmail.com](mailto:ali.alahmad.cs@gmail.com)**
  
  </div>
  
