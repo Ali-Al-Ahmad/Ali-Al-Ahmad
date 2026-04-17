@@ -8,7 +8,7 @@
 
   🔭 I’m currently working on **Full Stack projects**
  
- 🌱 I’m currently learning **NextJS, NestJS, Laravel **
+ 🌱 I’m currently learning **NextJS, NestJS, Laravel**
 
  💬 Ask me about **React.js, Node.js, Mongoose**
  
